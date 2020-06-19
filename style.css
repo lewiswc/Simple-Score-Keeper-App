@@ -1,0 +1,63 @@
+.container {
+  background-color: rgb(0, 162, 255);
+  width: auto;
+  height: 400px;
+  padding-bottom: 0px;
+  padding-top: 180px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 20px;
+}
+
+.scoreHolder {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  font-family: "Arvo", serif;
+}
+
+h3 {
+  font-size: 30px;
+  color: white;
+  font-family: "Arvo", serif;
+}
+
+#p1 {
+  border-radius: 10px;
+  background-color: green;
+  border-color: green;
+  color: white;
+  font-family: "Arvo", serif;
+}
+
+#p2 {
+  border-radius: 10px;
+  background-color: green;
+  border-color: green;
+  color: white;
+  font-family: "Arvo", serif;
+}
+
+#Re {
+  border-radius: 10px;
+  border-color: red;
+  background-color: red;
+  color: white;
+  font-family: "Arvo", serif;
+}
+
+input {
+  border-radius: 10px;
+  border-color: white;
+}
+
+.winner {
+  color: green;
+}
+
+.pwinner {
+  color: green;
+}
